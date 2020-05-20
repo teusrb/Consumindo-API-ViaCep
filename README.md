@@ -7,6 +7,8 @@ Consumindo API <strong>ViaCep</strong> em Python utilizando a biblioteca <strong
 # Passo 4: O valor recebido pelo WebService é um JSON com as informações do CEP, devemos retornar ao usuário o valor das chaves desejadas do JSON
 # Passo 5: Consultar se o usuário deseja continuar a utilizar o sistema e realizar uma nova busca ou deseja encerrá-lo
 
+![viacep](https://user-images.githubusercontent.com/53863282/82506074-366c4c00-9ad5-11ea-87b9-018363d6ad62.PNG)
+
 # Links importantes: <br/>
 Site do ViaCep: https://viacep.com.br/
 
